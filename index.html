@@ -52,7 +52,7 @@
 
     <main class="">
 
-        <div class="row">
+        <div class="row" id="carouselPc">
             <div id="carouselPortada" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="3000">
@@ -86,14 +86,14 @@
                 </h2>
             </div>
             <div class="row mx-auto">
-                <div class="card col-lg-4 col-md-6 col-sm-12 my-3 shadow">
+                <div class="card col-lg-3 my-3 shadow">
                     <img src="./assets/img/index/batidora.png" class="card-img-top img-fluid" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Batidora</h5>
                         <p class="card-text"></p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-3 col-sm-12">
+                <div class="col-lg-3">
                     <div class="card my-3 shadow">
                         <img src="./assets/img/index/caja-registradora.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
@@ -101,6 +101,8 @@
                           <p class="card-text"></p>
                         </div>
                     </div>
+                </div>
+                <div class="col-lg-3">
                     <div class="card my-3 shadow">
                         <img src="./assets/img/index/fiambrera.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
@@ -109,7 +111,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-3 col-sm-12">
+                <div class="col-lg-3">
                     <div class="card my-3 shadow">
                         <img src="./assets/img/index/heladera.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
@@ -117,6 +119,8 @@
                             <p class="card-text"></p>
                         </div>
                     </div>
+                </div>
+                <div class="d-lg-none col-lg-3">
                     <div class="card my-3 shadow">
                         <img src="./assets/img/index/horno.png" class="card-img-top img-fluid" alt="...">
                         <div class="card-body">
@@ -136,8 +140,8 @@
             </div>
         </div>
 
-        <div class="row justify-content-center bg-blue">
-            <div class="container bg-white rounded shadow my-5 mx-5">
+        <div class="row justify-content-center bg-blue px-5 shadow">
+            <div class="container bg-white rounded shadow my-5">
                 <h2 class="text-center fw-bold my-5">
                     Frial Instalaciones Comerciales
                 </h2>
@@ -147,18 +151,22 @@
             </div>
         </div>
 
-        <div class="row justify-content-center my-5">
-            <div class="mb-4">
-                <h2 class="text-center fw-bold">
-                    Importa y respalda
-                </h2>
-            </div>
-            <div class="">
-                <img src="./assets/svg/amapa.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="">
-                <img src="./assets/svg/becker.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="">
-                <img src="./assets/svg/frilux.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="">
-                <img src="./assets/svg/frivale.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="">
-                <img src="./assets/svg/gural.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="">
+        <div class="container">
+            <div class="row">
+                <div class="text-center ">
+                    <div class="col-12 d-flex-inline">
+                        <h2 class="text-center fw-bold my-5">
+                            Importa y respalda
+                        </h2>
+                        <div class="mb-5">
+                            <img src="./assets/svg/amapa.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="Logo Kunai Sushi Canelones">
+                            <img src="./assets/svg/becker.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="Logo Frial">
+                            <img src="./assets/svg/frilux.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="Logo Smartraining">
+                            <img src="./assets/svg/frivale.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity rounded" alt="Logo Alfahogar">
+                            <img src="./assets/svg/gural.svg" class="col-2 p-lg-3 p-md-2 p-sm-4 logos-opacity" alt="Logo Fullpizza">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -170,7 +178,9 @@
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="">
                         <div class="my-3">
-                            <img src="assets/svg/frial.svg" class="img-fluid" width="100" alt="">
+                            <a href="./index.html">
+                                <img src="./assets/svg/frial.svg" class="img-fluid" width="100" alt="">
+                            </a>
                         </div>
                         <p>
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores expedita quasi officiis neque veniam deleniti numquam unde doloremque, ipsa sed eligendi quis! Deserunt in sit delectus tempore est expedita provident.
@@ -179,15 +189,39 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="my-3">
-                        <h4>
+                        <h4 class="">
                             Menu
                         </h4>
                     </div>
                     <ul class="list-unstyled">
-                        <li><a href="./index.html" class="text-decoration-none text-black">Inicio</a></li>
-                        <li><a href="./pages/productos.html" class="text-decoration-none text-black">Productos</a></li>
-                        <li><a href="./pages/quienes-somos.html" class="text-decoration-none text-black">Empresa</a></li>
-                        <li><a href="./pages/contacto.html" class="text-decoration-none text-black">Contacto</a></li>
+                        <li>
+                            <a href="./index.html" class="datos">
+                                <p>
+                                    Inicio
+                                </p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="./pages/productos.html" class="datos">
+                                <p>
+                                    Productos
+                                </p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="./pages/quienes-somos.html" class="datos">
+                                <p>
+                                    Empresa
+                                </p>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="./pages/contacto.html" class="datos">
+                                <p>
+                                    Contacto
+                                </p>
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12">
@@ -198,10 +232,10 @@
                             </h4>
                         </div>
                         <div class="my-3">
-                            <a href="https://www.facebook.com/frial.instalacionescomerciales" class="text-decoration-none text-black me-3"><i class="fab fa-facebook-f"></i></a>
-                            <a href="https://www.instagram.com/frialinstalaciones_comerciales/" class="text-decoration-none text-black mx-3"><i class="fab fa-instagram"></i></a>
-                            <a href="tel:+59899631077" class="text-decoration-none text-black mx-3"><i class="fas fa-phone-alt"></i></a>
-                            <a href="mailto:frialmac@gmail.com" class="text-decoration-none text-black mx-3"><i class="fas fa-envelope"></i></a>
+                            <a href="https://www.facebook.com/frial.instalacionescomerciales" class="datos me-3"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/frialinstalaciones_comerciales/" class="datos mx-3"><i class="fab fa-instagram"></i></a>
+                            <a href="tel:+59899631077" class="datos mx-3"><i class="fas fa-phone-alt"></i></a>
+                            <a href="mailto:frialmac@gmail.com" class="datos mx-3"><i class="fas fa-envelope"></i></a>
                         </div>
                     </div>
                 </div>
