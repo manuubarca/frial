@@ -21,7 +21,7 @@
                 <span class="navbar-toggler-icon"></span>
               </button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <ul class="navbar-nav me-auto mb-lg-0">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="../index.html">Inicio</a>
                     </li>
@@ -71,9 +71,9 @@
           </nav>
     </header>
 
-    <main>
+    <main class="">
 
-        <div class="row frente p-5">
+        <div class="frente p-5">
             <div class="my-5">
                 <h1 class="text-white text-uppercase my-5">
                     Productos
@@ -81,14 +81,16 @@
             </div>
         </div>
         
-        <div class="d-lg-flex flex-nowrap justify-content-between mx-auto my-3">
+        <div class="row gx-lg-5 m-3">
 
-            <div class="col-md-3 col-lg-3 col-xl-3 col-sm-12 p-3 rounded border mb-3">
-                <div class="">
-                    <h3 class="pb-2">
-                        Categorías
-                    </h3>
-                    <form class="d-flex">
+            <div class="col-md-3 col-lg-3 col-xl-3 col-sm-12 mb-3 p-3 rounded border">
+                <div class="d-flex flex-column">
+                    <div class="row">
+                        <h3 class="border-bottom border-2 pb-3">
+                            Categorías
+                        </h3>
+                    </div>
+                    <form class="row d-flex border-bottom mt-3">
                         <div class="input-group mb-3">
                             <input type="text" class="form-control" placeholder="Buscar" aria-label="Buscar" aria-describedby="buscar">
                             <button class="btn btn-outline-secondary" type="button" id="buscar">
@@ -96,51 +98,165 @@
                             </button>
                         </div>   
                     </form>
-                    <ul class="list-unstyled">
-                        <li class="nav-item mb-2">
-                            <a href="" class="datos">
-                                Accesorios
-                            </a>
+                    <ul class="row list-unstyled accordion accordion-flush border-bottom" id="acordionCategorias">
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingAccesorios">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionAccesorios" aria-expanded="true" aria-controls="accordionAccesorios">
+                                    Accesorios
+                                </button>
+                            </h2>
+                            <ul  id="accordionAccesorios" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingAccesorios" data-bs-parent="#accordionAccesorios">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Pisapapeles
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Engrampadora
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Mini estantes
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
-                        <li class="nav-item mb-2">
-                            <a href="" class="datos">
-                                Cajas registradoras
-                            </a>
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingCajasRegistradoras">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionCajasRegistradoras" aria-expanded="true" aria-controls="accordionCajasRegistradoras">
+                                    Cajas registradoras
+                                </button>
+                            </h2>
+                            <ul  id="accordionCajasRegistradoras" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingCajasRegistradoras" data-bs-parent="#accordionCajasRegistradoras">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Con calculadoras
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Solo caja
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
-                        <li class="nav-item mb-2">
-                            <a href="" class="datos">
-                                Heladeras
-                            </a>
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingHeladeras">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionHeladeras" aria-expanded="true" aria-controls="accordionHeladeras">
+                                    Heladeras
+                                </button>
+                            </h2>
+                            <ul  id="accordionHeladeras" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingHeladeras" data-bs-parent="#accordionHeladeras">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Verticales
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Horizontales
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
-                        <li class="nav-item mb-2">
-                            <a href="" class="datos">
-                                Amasadoras
-                            </a>
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingAmasadoras">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionAmasadoras" aria-expanded="true" aria-controls="accordionAmasadoras">
+                                    Amasadoras
+                                </button>
+                            </h2>
+                            <ul  id="accordionAmasadoras" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingAmasadoras" data-bs-parent="#accordionAmasadoras">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Verticales
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Horizontales
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
-                        <li class="nav-item mb-2">
-                            <a href="" class="datos">
-                                Hornos
-                            </a>
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingHornos">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionHornos" aria-expanded="true" aria-controls="accordionHornos">
+                                    Hornos
+                                </button>
+                            </h2>
+                            <ul  id="accordionHornos" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingHornos" data-bs-parent="#accordionHornos">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Verticales
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Horizontales
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
-                        <li class="nav-item mb-2">
-                            <a href="" class="datos">
-                                Moledoras de carne
-                            </a>
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingMoledoras">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionMoledoras" aria-expanded="true" aria-controls="accordionMoledoras">
+                                    Moledoras de carne
+                                </button>
+                            </h2>
+                            <ul  id="accordionMoledoras" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingMoledoras" data-bs-parent="#accordionMoledoras">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Verticales
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Horizontales
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
-                        <li class="nav-item mb-3">
-                            <a href="" class="datos">
-                                Fiambreras
-                            </a>
+                        <li class="accordion-item">
+                            <h2 href="" class="datos accordion-header" id="headingFiambreras">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionFiambreras" aria-expanded="true" aria-controls="accordionFiambreras">
+                                    Fiambreras
+                                </button>
+                            </h2>
+                            <ul  id="accordionFiambreras" class="accordion-collapse collapse list-unstyled" aria-labelledby="headingFiambreras" data-bs-parent="#accordionFiambreras">
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Verticales
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item" href="#">
+                                        Horizontales
+                                    </a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
+                    <div class="row border-top border-2">
+                        <p class="fst-italic fw-bold my-3 pb-3 ps-4 border-bottom">
+                            Envios a todo el país <i class="fa fa-truck orange ps-3"></i>
+                        </p class="fst-italic fw-bold">
+                        <p class="fst-italic fw-bold pb-3 ps-4 border-bottom">
+                            Pago rápido y facil <i class="fa fa-credit-card orange ps-3"></i>
+                        </p class="fst-italic fw-bold">
+                        <p class="fst-italic fw-bold pb-3 ps-4 border-bottom">
+                            Soporte y reparaciones <i class="fa fa-phone orange ps-3"></i>
+                        </p class="fst-italic fw-bold">
+                    </div>
                 </div>
             </div>
                 
             <div class="col-md-9 col-sm-12">
 
-                <div class="row mx-1">
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 pb-5">
-                        <div class="card">
+                <div class="row ">
+                    <div class="col-lg-4 pb-3">
+                        <div class="card h-100">
                             <img src="../assets/img/productos/batidora.png" class="card-img-top" alt="...">
                             <div class="card-body text-center py-4 px-4">
                                 <h5 class="card-title">
@@ -152,8 +268,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 pb-5">
-                        <div class="card">
+                    <div class="col-lg-4  pb-3">
+                        <div class="card h-100">
                             <img src="../assets/img/productos/caja-registradora.png" class="card-img-top" alt="...">
                             <div class="card-body text-center py-4 px-4">
                                 <h5 class="card-title">
@@ -165,8 +281,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 pb-5">
-                        <div class="card">
+                    <div class="col-lg-4  pb-3">
+                        <div class="card h-100">
                             <img src="../assets/img/productos/fiambrera.png" class="card-img-top" alt="...">
                             <div class="card-body text-center py-4 px-4">
                                 <h5 class="card-title">
@@ -176,8 +292,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 pb-5">
-                        <div class="card">
+                    <div class="col-lg-4  pb-3">
+                        <div class="card h-100">
                             <img src="../assets/img/productos/heladera.png" class="card-img-top" alt="...">
                             <div class="card-body text-center py-4 px-4">
                                 <h5 class="card-title">
@@ -189,8 +305,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 pb-5">
-                        <div class="card">
+                    <div class="col-lg-4  pb-3">
+                        <div class="card h-100">
                             <img src="../assets/img/productos/horno.png" class="card-img-top" alt="...">
                             <div class="card-body text-center py-4 px-4">
                                 <h5 class="card-title">
@@ -202,8 +318,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4 pb-5">
-                        <div class="card">
+                    <div class="col pb-3">
+                        <div class="card h-100">
                             <img src="../assets/img/productos/picadora.png" class="card-img-top" alt="...">
                             <div class="card-body text-center py-4 px-4">
                                 <h5 class="card-title">
@@ -222,7 +338,7 @@
         
     </main>
 
-    <footer class="border-top">
+    <footer class="border-top overflow-hidden">
         <div class="container-fluid">
             <div class="row my-4">
                 <div class="col-lg-4 col-md-4 col-12">
@@ -237,7 +353,7 @@
                         </p>   
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12">
+                <div class="col-lg-4 col-md-4 col-md-12">
                     <div class="my-3">
                         <h4 class="">
                             Menu
