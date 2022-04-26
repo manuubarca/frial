@@ -131,6 +131,51 @@
   100% {
     transform: translate(1px, -1px) rotate(-1deg); } }
 
+.shower {
+  display: flex;
+  left: -100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  transform: translateX(100%); }
+  @media (min-width: 30em) {
+    .shower {
+      left: -33.33333%;
+      transform: translateX(33.33333%); } }
+  @media (min-width: 40em) {
+    .shower {
+      left: -20%;
+      transform: translateX(20%); } }
+
+.shower.is-reversing {
+  transform: translateX(-100%); }
+  @media (min-width: 30em) {
+    .shower.is-reversing {
+      transform: translateX(-33.33333%); } }
+  @media (min-width: 40em) {
+    .shower.is-reversing {
+      transform: translateX(-20%); } }
+
+.shower.is-set {
+  transform: none;
+  transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1); }
+
+.shower-seat {
+  flex: 1 0 100%;
+  order: 2; }
+
+@media (min-width: 30em) {
+  .shower-seat:nth-child(even) {
+    flex-basis: 33.33333%; } }
+
+@media (min-width: 40em) {
+  .shower-seat:nth-child(even) {
+    flex-basis: 20%; } }
+
+.shower-seat.is-ref {
+  order: 1; }
+
 .index {
   background-image: url(../assets/img/contacto/frente.jpg);
   background-position: center;
