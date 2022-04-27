@@ -60,7 +60,7 @@
 }
 
 
-// ----- Carousel ----- //
+// ----- Carousel 1 ----- //
 
 .shower {
     display: flex;
@@ -68,7 +68,6 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    position: relative;
     transform: translateX(100%);
     @media (min-width: 30em) {
         left: -33.33333%; 
@@ -94,13 +93,13 @@
   
 .shower.is-set {
     transform: none;
-    transition: transform 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+    transition: transform 2s cubic-bezier(0.5, 1, 0.5, 1);
 }
     
 // ----- Seats ----- //
       
 .shower-seat {
-    flex: 1 0 100%;
+    flex: 1 0 20%;
     order: 2;
 }  
 .shower-seat:nth-child(even) {

@@ -65,3 +65,4 @@ var progress = function(e) {
 window.setInterval(function(){
   progress();
 }, 2000);
+
