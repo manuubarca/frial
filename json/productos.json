@@ -19,7 +19,7 @@
         "lamina":"",
         "color":"Negro, Blanco",
         "categoria":"Refrigeradores",
-        "img":""
+        "img":"rf321.png"
     },
     {
         "id":"02",
@@ -41,7 +41,7 @@
         "lamina":"",
         "color":"Negro, Blanco",
         "categoria":"",
-        "img":""
+        "img":"rf323.png"
     },
     {
         "id":"03",
@@ -63,7 +63,7 @@
         "lamina":"",
         "color":"Negro, Blanco",
         "categoria":"",
-        "img":""
+        "img":"rf325.png"
     },
     {
         "id":"04",
@@ -85,7 +85,7 @@
         "lamina":"",
         "color":"Negro, Blanco",
         "categoria":"",
-        "img":""
+        "img":"rf327.png"
     },
     {
         "id":"05",
@@ -107,7 +107,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"vf001t.kpg"
     },
     {
         "id":"06",
@@ -129,7 +129,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"vf002t.png"
     },
     {
         "id":"07",
@@ -151,7 +151,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"vf003t.png"
     },
     {
         "id":"08",
@@ -173,7 +173,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"vf004t.png"
     },
     {
         "id":"09",
@@ -195,7 +195,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"ef001t.png"
     },
     {
         "id":"10",
@@ -217,7 +217,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"ef002t.png"
     },
     {
         "id":"11",
@@ -239,7 +239,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf078t.png"
     },
     {
         "id":"12",
@@ -261,7 +261,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf083t.png"
     },
     {
         "id":"13",
@@ -283,7 +283,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf071t.png"
     },
     {
         "id":"14",
@@ -305,7 +305,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf073t.png"
     },
     {
         "id":"15",
@@ -327,7 +327,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"bf005.png"
     },
     {
         "id":"16",
@@ -349,7 +349,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"bf006.png"
     },
     {
         "id":"17",
@@ -371,7 +371,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"bf007.png"
     },
     {
         "id":"18",
@@ -393,7 +393,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"bf008.png"
     },
     {
         "id":"19",
@@ -415,7 +415,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"rf132.png"
     },
     {
         "id":"20",
@@ -437,7 +437,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"rf133.png"
     },
     {
         "id":"21",
@@ -459,7 +459,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"rf134.png"
     },
     {
         "id":"22",
@@ -481,7 +481,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"rf135.png"
     },
     {
         "id":"23",
@@ -503,7 +503,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"vf011.png"
     },
     {
         "id":"24",
@@ -525,7 +525,7 @@
         "lamina":"",
         "color":"",
         "categoria":"",
-        "img":""
+        "img":"vf012.png"
     },
     {
         "id":"25",
@@ -547,7 +547,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf007.png"
     },
     {
         "id":"26",
@@ -569,7 +569,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf008.png"
     },
     {
         "id":"27",
@@ -591,7 +591,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf004.png"
     },
     {
         "id":"28",
@@ -613,7 +613,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf005.png"
     },
     {
         "id":"29",
@@ -635,7 +635,7 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf006.png"
     },
     {
         "id":"30",
@@ -657,6 +657,534 @@
         "lamina":"",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":""
+        "img":"rf003.png"
+    },
+    {
+        "id":"31",
+        "url":"",
+        "codigo":"RF-006-S",
+        "marca":"frilux",
+        "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
+        "medidas":"1080mm x 575mm x 1950mm",
+        "potencia":"",
+        "temperatura":"0 a +8",
+        "consumo":"240 kWh/mes",
+        "peso":"121 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"rf006s.png"
+    },
+    {
+        "id":"32",
+        "url":"",
+        "codigo":"RF-007-S",
+        "marca":"frilux",
+        "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
+        "medidas":"1600mm x 575mm x 1950mm",
+        "potencia":"",
+        "temperatura":"0 a +8",
+        "consumo":"325 kWh / mes",
+        "peso":"150 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"rf007s.png"
+    },
+    {
+        "id":"33",
+        "url":"",
+        "codigo":"RF-024",
+        "marca":"frilux",
+        "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
+        "medidas":"2800mm x 600mm x 2000mm",
+        "potencia":"",
+        "temperatura":"2 a +8",
+        "consumo":"387 kWh / mes",
+        "peso":"265 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"rf024.png"
+    },
+    {
+        "id":"34",
+        "url":"",
+        "codigo":"VF-005-F",
+        "marca":"frilux",
+        "nombre":"Exposición de Panes, y Galletas",
+        "medidas":"1200mm x 530mm x 1850mm",
+        "potencia":"",
+        "temperatura":"",
+        "consumo":"",
+        "peso":"60 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"vf005f.png"
+    },
+    {
+        "id":"35",
+        "url":"",
+        "codigo":"VF-006-F",
+        "marca":"frilux",
+        "nombre":"Exposición de Panes, y Galletas",
+        "medidas":"1400mm x 530mm x 1850mm",
+        "potencia":"",
+        "temperatura":"",
+        "consumo":"",
+        "peso":"70 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"vf006f.png"
+    },
+    {
+        "id":"36",
+        "url":"",
+        "codigo":"VF-007-F",
+        "marca":"frilux",
+        "nombre":"Exposición de Panes, y Galletas",
+        "medidas":"1600mm x 530mm x 1850mm",
+        "potencia":"",
+        "temperatura":"",
+        "consumo":"",
+        "peso":"80 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"vf007f.png"
+    },
+    {
+        "id":"37",
+        "url":"",
+        "codigo":"VF-008-F",
+        "marca":"frilux",
+        "nombre":"Exposición de Panes, y Galletas",
+        "medidas":"1600mm x 530mm x 1850mm",
+        "potencia":"",
+        "temperatura":"",
+        "consumo":"",
+        "peso":"90 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
+        "categoria":"",
+        "img":"vf008f.png"
+    },
+    {
+        "id":"38",
+        "url":"",
+        "codigo":"LQB-4",
+        "marca":"becker go",
+        "nombre":"Licuadora Industrial",
+        "medidas":"580mm x 220mm x 250mm",
+        "potencia":"650 W",
+        "temperatura":"",
+        "consumo":"0,65 kw/h",
+        "peso":"12,5 Kg",
+        "rotacion":"3500 RPM",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"lqb4.png"
+    },
+    {
+        "id":"39",
+        "url":"",
+        "codigo":"LQB-6",
+        "marca":"becker go",
+        "nombre":"Licuadora Industrial",
+        "medidas":"645mm x 220mm x 250mm",
+        "potencia":"650 W",
+        "temperatura":"",
+        "consumo":"0,65 kw/h",
+        "peso":"13 Kg",
+        "rotacion":"3500 RPM",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"lqb6.png"
+    },
+    {
+        "id":"40",
+        "url":"",
+        "codigo":"LQB-8",
+        "marca":"becker go",
+        "nombre":"Licuadora Industrial",
+        "medidas":"700mm x 220mm x 250mm",
+        "potencia":"650 W",
+        "temperatura":"",
+        "consumo":"0,65 kw/h",
+        "peso":"13,5 Kg",
+        "rotacion":"3500 RPM",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"lqb8.png"
+    },
+    {
+        "id":"41",
+        "url":"",
+        "codigo":"LQB-10",
+        "marca":"becker go",
+        "nombre":"Licuadora Industrial",
+        "medidas":"760mm x 220mm x 250mm",
+        "potencia":"650 W",
+        "temperatura":"",
+        "consumo":"0,65 kw/h",
+        "peso":"14 Kg",
+        "rotacion":"3500 RPM",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"lqb10.png"
+    },
+    {
+        "id":"42",
+        "url":"",
+        "codigo":"LQA-2",
+        "marca":"becker go",
+        "nombre":"Licuadora Industrial",
+        "medidas":"437 mm x 175mm x 210mm",
+        "potencia":"345 W",
+        "temperatura":"",
+        "consumo":"0,345 kw/h",
+        "peso":"3,1 Kg",
+        "rotacion":"22.000 RPM",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"lqa2.png"
+    },
+    {
+        "id":"43",
+        "url":"",
+        "codigo":"REC-150",
+        "marca":"becker go",
+        "nombre":"Rallador Electrico Comercial",
+        "medidas":"370 mm x 215mm x 410mm",
+        "potencia":"1/2 CV",
+        "temperatura":"",
+        "consumo":"0,37 kw/h",
+        "peso":"16 Kg",
+        "rotacion":"424 RPM",
+        "disco":"150mm",
+        "produccion":"120 Kg/h",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"rec150.png"
+    },
+    {
+        "id":"44",
+        "url":"",
+        "codigo":"MBI-10",
+        "marca":"becker go",
+        "nombre":"Moledora de Carne",
+        "medidas":"420mm x 315mm x 567mm",
+        "potencia":"750 W",
+        "temperatura":"",
+        "consumo":"0,85 kw/h",
+        "peso":"29 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"150 a 250 Kg/h",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"mbi10.png"
+    },
+    {
+        "id":"45",
+        "url":"",
+        "codigo":"MBI-22",
+        "marca":"becker go",
+        "nombre":"Moledora de Carne",
+        "medidas":"460mm x 345mm x 710mm",
+        "potencia":"850 W",
+        "temperatura":"",
+        "consumo":"0,75 kw/h",
+        "peso":"41 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"250 a 350 Kg/h",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"mbi22.png"
+    },
+    {
+        "id":"46",
+        "url":"",
+        "codigo":"MBI-98",
+        "marca":"becker go",
+        "nombre":"Moledora de Carne",
+        "medidas":"530mm x 385mm x 760mm",
+        "potencia":"1500 W",
+        "temperatura":"",
+        "consumo":"1,50 kw/h",
+        "peso":"56 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"500 a 600 Kg/h",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"mbi98.png"
+    },
+    {
+        "id":"47",
+        "url":"",
+        "codigo":"MBL-22",
+        "marca":"becker go",
+        "nombre":"Moledora de Carne",
+        "medidas":"460mm x 345mm x 710mm",
+        "potencia":"850 W",
+        "temperatura":"",
+        "consumo":"0,85 kw/h",
+        "peso":"41 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"250 a 350 Kg/h",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"mbl22.png"
+    },
+    {
+        "id":"48",
+        "url":"",
+        "codigo":"MBL-98",
+        "marca":"becker go",
+        "nombre":"Moledora de Carne",
+        "medidas":"530mm x 385mm x 760mm",
+        "potencia":"1500 W",
+        "temperatura":"",
+        "consumo":"1,50 kw/h",
+        "peso":"56 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"500 a 600 Kg/h",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"mbl98.png"
+    },
+    {
+        "id":"49",
+        "url":"",
+        "codigo":"ABI-10",
+        "marca":"becker go",
+        "nombre":"Ablandador de Carnes",
+        "medidas":"468mm x 227mm x 478mm",
+        "potencia":"440 W",
+        "temperatura":"",
+        "consumo":"0,44 kw/h",
+        "peso":"21 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"400 a 450 kg/h",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"abi10.png"
+    },
+    {
+        "id":"50",
+        "url":"",
+        "codigo":"PEC-9",
+        "marca":"becker go",
+        "nombre":"Molino Electrico Comercial",
+        "medidas":"380mm x 235mm x 505mm",
+        "potencia":"380 W",
+        "temperatura":"",
+        "consumo":"0,38 kw/h",
+        "peso":"22 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"150kg/h",
+        "molienda":"",
+        "mesa":"",
+        "corte":"",
+        "lamina":"",
+        "color":"Inox",
+        "categoria":"",
+        "img":"pec9.png"
+    },
+    {
+        "id":"51",
+        "url":"",
+        "codigo":"SBS-40",
+        "marca":"becker go",
+        "nombre":"Sierra grande para Huesos",
+        "medidas":"1,720mm x 757mm x 842mm",
+        "potencia":"750 W",
+        "temperatura":"",
+        "consumo":"0,75 kw/h",
+        "peso":"83 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"700x805",
+        "corte":"374mm x 275mm",
+        "lamina":"2,82m",
+        "color":"Inox",
+        "categoria":"",
+        "img":"sbs40.png"
+    },
+    {
+        "id":"52",
+        "url":"",
+        "codigo":"SBS-35",
+        "marca":"becker go",
+        "nombre":"Sierra Mediana para Huesos",
+        "medidas":"1,540mm x 603mm x 652mm",
+        "potencia":"680 W",
+        "temperatura":"",
+        "consumo":"0,68 kw/h",
+        "peso":"58 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"540x615",
+        "corte":"291mm x 195mm",
+        "lamina":"2,20m",
+        "color":"Inox",
+        "categoria":"",
+        "img":"sbs35.png"
+    },
+    {
+        "id":"53",
+        "url":"",
+        "codigo":"SBI-17",
+        "marca":"becker go",
+        "nombre":"Sierra Pequeña para Huesos",
+        "medidas":"880mm x 460mm x 500mm",
+        "potencia":"580 W",
+        "temperatura":"",
+        "consumo":"0,58 kw/h",
+        "peso":"34 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"410x450",
+        "corte":"211mm x 160mm",
+        "lamina":"1,80m",
+        "color":"Inox",
+        "categoria":"",
+        "img":"sbi17.png"
+    },
+    {
+        "id":"54",
+        "url":"",
+        "codigo":"SBSP-17",
+        "marca":"becker go",
+        "nombre":"Sierra Pequeña para Huesos con Molino",
+        "medidas":"880mm x 652mm x 500mm ",
+        "potencia":"580 W",
+        "temperatura":"",
+        "consumo":"0,58 kw/h",
+        "peso":"42 Kg",
+        "rotacion":"",
+        "disco":"",
+        "produccion":"",
+        "molienda":"",
+        "mesa":"410x450",
+        "corte":"211mm x 160mm",
+        "lamina":"1,80m",
+        "color":"Inox",
+        "categoria":"",
+        "img":"sbsp17.png"
     }
 ]

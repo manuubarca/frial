@@ -9,15 +9,15 @@ fetch('../json/productos.json')
         if(divProductos != null ){
 
             divProductos.innerHTML += `
-            <div id="producto${indice} class="col pb-3">
+            <div id="producto${indice} class="col">
                 <div class="card h-100">
-                    <img src="../assets/img/productos/${productosEnArray.img}" class="card-img-top img-fluid" alt="...">
-                    <div class="card-body text-center">
-                        <h5 class="card-title">
-                            
-                        </h5>
-                        <p class="card-text">
-                            ${productosEnArray.nombre}        
+                    <img src="../assets/img/productos/frilux/${productosEnArray.img}" class="card-img-top img-fluid" alt="...">
+                    <div class="card-body">
+                        <p class="card-title">
+                            ${productosEnArray.nombre}
+                        </p>
+                        <p class="card-text text-muted">
+                            ${productosEnArray.codigo}        
                         </p>
                         <a href="${productosEnArray.url}" id="botonVerProducto${indice}" class="btn bg-orange text-white rounded">
                             Ver producto
