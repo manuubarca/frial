@@ -1,5 +1,5 @@
 class Producto {
-    constructor (id, url, codigo, marca, nombre, medidas, potencia, temperatura, consumo, peso, rotacion, disco, produccion, molienda, mesa, corte, lamina, color, categoria, img){
+    constructor (id, url, codigo, marca, nombre, medidas, potencia, temperatura, consumo, peso, rotacion, disco, produccion, molienda, mesa, corte, lamina, capacidad, color, categoria, img){
         this.id = id;
         this.url = url;
         this.codigo = codigo;
@@ -17,6 +17,7 @@ class Producto {
         this.mesa = mesa;
         this.corte = corte;
         this.lamina = lamina;
+        this.capacidad = capacidad;
         this.color = color;
         this.categoria = categoria;
         this.img = img;
