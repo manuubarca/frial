@@ -11,7 +11,7 @@ fetch('../json/productos.json')
             divProductos.innerHTML += `
             <div id="producto${indice} class="col">
                 <div class="card h-100">
-                    <img src="../assets/img/productos/frilux/${productosEnArray.img}" class="card-img-top img-fluid" alt="...">
+                    <img src="../assets/img/productos/${productosEnArray.img}" class="card-img-top img-fluid" alt="...">
                     <div class="card-body">
                         <p class="card-title">
                             ${productosEnArray.nombre}

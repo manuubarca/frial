@@ -20,7 +20,7 @@
         "capacidad": "",
         "color":"Negro, Blanco",
         "categoria":"Refrigeradores",
-        "img":"rf321.png"
+        "img":"frilux/rf321.png"
     },
     {
         "id":"02",
@@ -43,7 +43,7 @@
         "capacidad": "",
         "color":"Negro, Blanco",
         "categoria":"",
-        "img":"rf323.png"
+        "img":"frilux/rf323.png"
     },
     {
         "id":"03",
@@ -66,7 +66,7 @@
         "capacidad": "",
         "color":"Negro, Blanco",
         "categoria":"",
-        "img":"rf325.png"
+        "img":"frilux/rf325.png"
     },
     {
         "id":"04",
@@ -89,7 +89,7 @@
         "capacidad": "",
         "color":"Negro, Blanco",
         "categoria":"",
-        "img":"rf327.png"
+        "img":"frilux/rf327.png"
     },
     {
         "id":"05",
@@ -112,7 +112,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf001t.kpg"
+        "img":"frilux/vf001t.kpg"
     },
     {
         "id":"06",
@@ -135,7 +135,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf002t.png"
+        "img":"frilux/vf002t.png"
     },
     {
         "id":"07",
@@ -158,7 +158,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf003t.png"
+        "img":"frilux/vf003t.png"
     },
     {
         "id":"08",
@@ -181,7 +181,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf004t.png"
+        "img":"frilux/vf004t.png"
     },
     {
         "id":"09",
@@ -204,7 +204,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"ef001t.png"
+        "img":"frilux/ef001t.png"
     },
     {
         "id":"10",
@@ -227,7 +227,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"ef002t.png"
+        "img":"frilux/ef002t.png"
     },
     {
         "id":"11",
@@ -250,7 +250,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf078t.png"
+        "img":"frilux/rf078t.png"
     },
     {
         "id":"12",
@@ -273,7 +273,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf083t.png"
+        "img":"frilux/rf083t.png"
     },
     {
         "id":"13",
@@ -296,7 +296,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf071t.png"
+        "img":"frilux/rf071t.png"
     },
     {
         "id":"14",
@@ -319,7 +319,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf073t.png"
+        "img":"frilux/rf073t.png"
     },
     {
         "id":"15",
@@ -342,7 +342,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"bf005.png"
+        "img":"frilux/bf005.png"
     },
     {
         "id":"16",
@@ -365,7 +365,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"bf006.png"
+        "img":"frilux/bf006.png"
     },
     {
         "id":"17",
@@ -388,7 +388,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"bf007.png"
+        "img":"frilux/bf007.png"
     },
     {
         "id":"18",
@@ -411,7 +411,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"bf008.png"
+        "img":"frilux/bf008.png"
     },
     {
         "id":"19",
@@ -434,7 +434,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf132.png"
+        "img":"frilux/rf132.png"
     },
     {
         "id":"20",
@@ -457,7 +457,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf133.png"
+        "img":"frilux/rf133.png"
     },
     {
         "id":"21",
@@ -480,7 +480,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf134.png"
+        "img":"frilux/rf134.png"
     },
     {
         "id":"22",
@@ -503,7 +503,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf135.png"
+        "img":"frilux/rf135.png"
     },
     {
         "id":"23",
@@ -526,7 +526,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf011.png"
+        "img":"frilux/vf011.png"
     },
     {
         "id":"24",
@@ -549,7 +549,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf012.png"
+        "img":"frilux/vf012.png"
     },
     {
         "id":"25",
@@ -572,7 +572,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf007.png"
+        "img":"frilux/rf007.png"
     },
     {
         "id":"26",
@@ -595,7 +595,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf008.png"
+        "img":"frilux/rf008.png"
     },
     {
         "id":"27",
@@ -618,7 +618,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf004.png"
+        "img":"frilux/rf004.png"
     },
     {
         "id":"28",
@@ -641,7 +641,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf005.png"
+        "img":"frilux/rf005.png"
     },
     {
         "id":"29",
@@ -664,7 +664,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf006.png"
+        "img":"frilux/rf006.png"
     },
     {
         "id":"30",
@@ -687,7 +687,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf003.png"
+        "img":"frilux/rf003.png"
     },
     {
         "id":"31",
@@ -710,7 +710,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf006s.png"
+        "img":"frilux/rf006s.png"
     },
     {
         "id":"32",
@@ -733,7 +733,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf007s.png"
+        "img":"frilux/rf007s.png"
     },
     {
         "id":"33",
@@ -756,7 +756,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"rf024.png"
+        "img":"frilux/rf024.png"
     },
     {
         "id":"34",
@@ -779,7 +779,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf005f.png"
+        "img":"frilux/vf005f.png"
     },
     {
         "id":"35",
@@ -802,7 +802,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf006f.png"
+        "img":"frilux/vf006f.png"
     },
     {
         "id":"36",
@@ -825,7 +825,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf007f.png"
+        "img":"frilux/vf007f.png"
     },
     {
         "id":"37",
@@ -848,7 +848,7 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
         "categoria":"",
-        "img":"vf008f.png"
+        "img":"frilux/vf008f.png"
     },
     {
         "id":"38",
@@ -871,7 +871,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"lqb4.png"
+        "img":"beckergo/lqb4.png"
     },
     {
         "id":"39",
@@ -894,7 +894,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"lqb6.png"
+        "img":"beckergo/lqb6.png"
     },
     {
         "id":"40",
@@ -917,7 +917,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"lqb8.png"
+        "img":"beckergo/lqb8.png"
     },
     {
         "id":"41",
@@ -940,7 +940,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"lqb10.png"
+        "img":"beckergo/lqb10.png"
     },
     {
         "id":"42",
@@ -963,7 +963,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"lqa2.png"
+        "img":"beckergo/lqa2.png"
     },
     {
         "id":"43",
@@ -986,7 +986,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"rec150.png"
+        "img":"beckergo/rec150.png"
     },
     {
         "id":"44",
@@ -1009,7 +1009,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"mbi10.png"
+        "img":"beckergo/mbi10.png"
     },
     {
         "id":"45",
@@ -1032,7 +1032,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"mbi22.png"
+        "img":"beckergo/mbi22.png"
     },
     {
         "id":"46",
@@ -1055,7 +1055,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"mbi98.png"
+        "img":"beckergo/mbi98.png"
     },
     {
         "id":"47",
@@ -1078,7 +1078,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"mbl22.png"
+        "img":"beckergo/mbl22.png"
     },
     {
         "id":"48",
@@ -1101,7 +1101,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"mbl98.png"
+        "img":"beckergo/mbl98.png"
     },
     {
         "id":"49",
@@ -1124,7 +1124,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"abi10.png"
+        "img":"beckergo/abi10.png"
     },
     {
         "id":"50",
@@ -1147,7 +1147,7 @@
         "capacidad": "",
         "color":"Inox",
         "categoria":"",
-        "img":"pec9.png"
+        "img":"beckergo/pec9.png"
     },
     {
         "id":"51",
@@ -1169,7 +1169,7 @@
         "lamina":"2,82m",
         "color":"Inox",
         "categoria":"",
-        "img":"sbs40.png"
+        "img":"beckergo/sbs40.png"
     },
     {
         "id":"52",
@@ -1191,7 +1191,7 @@
         "lamina":"2,20m",
         "color":"Inox",
         "categoria":"",
-        "img":"sbs35.png"
+        "img":"beckergo/sbs35.png"
     },
     {
         "id":"53",
@@ -1213,7 +1213,7 @@
         "lamina":"1,80m",
         "color":"Inox",
         "categoria":"",
-        "img":"sbi17.png"
+        "img":"beckergo/sbi17.png"
     },
     {
         "id":"54",
@@ -1235,13 +1235,13 @@
         "lamina":"1,80m",
         "color":"Inox",
         "categoria":"",
-        "img":"sbsp17.png"
+        "img":"beckergo/sbsp17.png"
     },
     {
         "id":"55",
         "url":"",
         "codigo":"RF-103",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
         "medidas":"1300mm x 700mm x 1000mm",
         "potencia":"",
@@ -1258,13 +1258,13 @@
         "capacidad": "474 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf103.png"
+        "img":"frilux/rf103.png"
     },
     {
         "id":"56",
         "url":"",
         "codigo":"RF-104",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
         "medidas":"1300mm x 700mm x 1000mm",
         "potencia":"",
@@ -1281,13 +1281,13 @@
         "capacidad": "589 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf104.png"
+        "img":"frilux/rf104.png"
     },
     {
         "id":"57",
         "url":"",
         "codigo":"RF-107",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
         "medidas":"1300mm x 700mm x 950mm",
         "potencia":"",
@@ -1304,13 +1304,13 @@
         "capacidad": "474 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf107.png"
+        "img":"frilux/rf107.png"
     },
     {
         "id":"58",
         "url":"",
         "codigo":"RF-108",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
         "medidas":"1300mm x 700mm x 950mm",
         "potencia":"",
@@ -1327,13 +1327,13 @@
         "capacidad": "589 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf108.png"
+        "img":"frilux/rf108.png"
     },
     {
         "id":"59",
         "url":"",
         "codigo":"RF-041",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Conservación y Refrigeración  Bebidas, Fiambres, Condimentos y Alimentos Refrigerados en General",
         "medidas":"1900mm x 660mm x 1000/1350mm",
         "potencia":"",
@@ -1350,13 +1350,13 @@
         "capacidad": "500 L",
         "color":"INOX",
         "categoria":"",
-        "img":"rf041.png"
+        "img":"frilux/rf041.png"
     },
     {
         "id":"60",
         "url":"",
         "codigo":"RF-064-E",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Conservación y Refrigeración  Bebidas, Fiambres, Condimentos y Alimentos Refrigerados en General",
         "medidas":"1080mm x 575mm x 1970mm",
         "potencia":"",
@@ -1373,13 +1373,13 @@
         "capacidad": "675 L",
         "color":"INOX",
         "categoria":"",
-        "img":"rf064e.png"
+        "img":"frilux/rf064e.png"
     },
     {
         "id":"61",
         "url":"",
         "codigo":"RF-062-T",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Conservación y Refrigeración  Bebidas, Fiambres, Condimentos y Alimentos Refrigerados en General",
         "medidas":"660mm x 750mm x 2000mm",
         "potencia":"",
@@ -1396,13 +1396,13 @@
         "capacidad": "550 L",
         "color":"Blanco",
         "categoria":"",
-        "img":"rf062t.png"
+        "img":"frilux/rf062t.png"
     },
     {
         "id":"62",
         "url":"",
         "codigo":"RF-065",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Conservación y Refrigeración  de Alimentos y Bebidas en General",
         "medidas":"1220mm x 700mm x 2000mm",
         "potencia":"",
@@ -1419,13 +1419,13 @@
         "capacidad": "900 L",
         "color":"Blanco",
         "categoria":"",
-        "img":"rf065.png"
+        "img":"frilux/rf065.png"
     },
     {
         "id":"63",
         "url":"",
         "codigo":"RF-068",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Conservación y Refrigeración  de Alimentos y Bebidas en General",
         "medidas":"1800mm x 700mm x 2000mm",
         "potencia":"",
@@ -1442,13 +1442,13 @@
         "capacidad": "1400 L",
         "color":"INOX",
         "categoria":"",
-        "img":"rf068.png"
+        "img":"frilux/rf068.png"
     },
     {
         "id":"64",
         "url":"",
         "codigo":"RF-053-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Refrigeración y Almacenamiento de Bebidas",
         "medidas":"1100mm x 900mm x 2200mm",
         "potencia":"",
@@ -1465,13 +1465,13 @@
         "capacidad": "480 Garrafas",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf053plus.png"
+        "img":"frilux/rf053plus.png"
     },
     {
         "id":"65",
         "url":"",
         "codigo":"RF-055-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Refrigeración y Almacenamiento de Bebidas",
         "medidas":"1550mm x 900mm x 2200mm",
         "potencia":"",
@@ -1488,13 +1488,13 @@
         "capacidad": "720 Garrafas",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf055plus.png"
+        "img":"frilux/rf055plus.png"
     },
     {
         "id":"66",
         "url":"",
         "codigo":"RF-057-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Refrigeración y Almacenamiento de Bebidas",
         "medidas":"2000mm x 900mm x 2200mm",
         "potencia":"",
@@ -1511,13 +1511,13 @@
         "capacidad": "936 Garrafas",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf057plus.png"
+        "img":"frilux/rf057plus.png"
     },
     {
         "id":"67",
         "url":"",
         "codigo":"RF-059-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Refrigeración y Almacenamiento de Bebidas",
         "medidas":"2450mm x 900mm x 2200mm",
         "potencia":"",
@@ -1534,13 +1534,13 @@
         "capacidad": "1152 Garrafas",
         "color":"Negro",
         "categoria":"",
-        "img":"rf059plus.png"
+        "img":"frilux/rf059plus.png"
     },
     {
         "id":"68",
         "url":"",
         "codigo":"RF-109",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Refrigeración y Conservación del Agua para Panaderías Industrias y Estación de Servicios",
         "medidas":"520mm x 600mm x 1040mm",
         "potencia":"",
@@ -1557,13 +1557,13 @@
         "capacidad": "100 L",
         "color":"Blanco",
         "categoria":"",
-        "img":"rf109.png"
+        "img":"frilux/rf109.png"
     },
     {
         "id":"69",
         "url":"",
         "codigo":"RF-110",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Refrigeración y Conservación del Agua para Panaderías Industrias y Estación de Servicios",
         "medidas":"520mm x 600mm x 1040mm",
         "potencia":"",
@@ -1580,13 +1580,13 @@
         "capacidad": "100 L",
         "color":"INOX",
         "categoria":"",
-        "img":"rf110.png"
+        "img":"frilux/rf110.png"
     },
     {
         "id":"70",
         "url":"",
         "codigo":"RF-118",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Retraso y Aceleración de Crescimiento de Panes",
         "medidas":"760mm x 915mm x 2050mm",
         "potencia":"",
@@ -1603,13 +1603,13 @@
         "capacidad": "20 Esteiras",
         "color":"INOX",
         "categoria":"",
-        "img":"rf118.png"
+        "img":"frilux/rf118.png"
     },
     {
         "id":"71",
         "url":"",
         "codigo":"RF-130",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Colocación de Alimentos Calientes y Alimentos Frios, Ensaladas y Postres",
         "medidas":"1940mm x 1100mm x 850/1250/1600mm",
         "potencia":"",
@@ -1626,13 +1626,13 @@
         "capacidad": "05 GN's 1;1x100mm ou 10 1/2 06 Gm's 1/2 x 65mm",
         "color":"",
         "categoria":"",
-        "img":"rf130.png"
+        "img":"frilux/rf130.png"
     },
     {
         "id":"72",
         "url":"",
         "codigo":"RF-131",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Colocación de Alimentos Calientes y Alimentos Frios, Ensaladas y Postres",
         "medidas":"2240mm x 1100mm x 850/1250/1600mm",
         "potencia":"",
@@ -1649,13 +1649,13 @@
         "capacidad": "06 GN's 1;1x100mm ou 12 1/2 07 Gm's 1/2 x 65mm",
         "color":"",
         "categoria":"",
-        "img":"rf131.png"
+        "img":"frilux/rf131.png"
     },
     {
         "id":"73",
         "url":"",
         "codigo":"RF-301-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
         "medidas":"650mm x 660mm x 1350mm",
         "potencia":"",
@@ -1672,13 +1672,13 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf301s.png"
+        "img":"frilux/rf301s.png"
     },
     {
         "id":"74",
         "url":"",
         "codigo":"RF-302-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
         "medidas":"1000mm x 660mm x 1350mm",
         "potencia":"",
@@ -1695,13 +1695,13 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf302s.png"
+        "img":"frilux/rf302s.png"
     },
     {
         "id":"75",
         "url":"",
         "codigo":"RF-303-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
         "medidas":"1500mm x 660mm x 1350mm",
         "potencia":"",
@@ -1718,13 +1718,13 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf303s.png"
+        "img":"frilux/rf303s.png"
     },
     {
         "id":"76",
         "url":"",
         "codigo":"RF-304-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
         "medidas":"2000mm x 660mm x 1350mm",
         "potencia":"",
@@ -1741,13 +1741,13 @@
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf304s.png"
+        "img":"frilux/rf304s.png"
     },
     {
         "id":"77",
         "url":"",
         "codigo":"VF-101-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"650mm x 660mm x 1350mm",
         "potencia":"",
@@ -1764,13 +1764,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf101s.png"
+        "img":"frilux/rf101s.png"
     },
     {
         "id":"78",
         "url":"",
         "codigo":"VF-102-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1000mm x 660mm x 1350mm",
         "potencia":"",
@@ -1787,13 +1787,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf102s.png"
+        "img":"frilux/rf102s.png"
     },
     {
         "id":"79",
         "url":"",
         "codigo":"VF-103-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1500mm x 660mm x 1350mm",
         "potencia":"",
@@ -1810,13 +1810,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf103s.png"
+        "img":"frilux/rf103s.png"
     },
     {
         "id":"80",
         "url":"",
         "codigo":"VF-104-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"2000mm x 660mm x 1350mm",
         "potencia":"",
@@ -1833,13 +1833,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf104s.png"
+        "img":"frilux/rf104s.png"
     },
     {
         "id":"81",
         "url":"",
         "codigo":"VF-105-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"650mm x 660mm x 1350mm",
         "potencia":"",
@@ -1856,13 +1856,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf105s.png"
+        "img":"frilux/rf105s.png"
     },
     {
         "id":"82",
         "url":"",
         "codigo":"VF-106-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1000mm x 660mm x 1350mm",
         "potencia":"",
@@ -1879,13 +1879,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf106s.png"
+        "img":"frilux/rf106s.png"
     },
     {
         "id":"82",
         "url":"",
         "codigo":"EF-201-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos calentados o neutros",
         "medidas":"650mm x 660mm x 1350mm",
         "potencia":"",
@@ -1902,13 +1902,13 @@
         "capacidad": "",
         "color":"Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"ef201s.png"
+        "img":"frilux/ef201s.png"
     },
     {
         "id":"83",
         "url":"",
         "codigo":"EF-202-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos calentados o neutros",
         "medidas":"100mm x 660mm x 1350mm",
         "potencia":"",
@@ -1925,13 +1925,13 @@
         "capacidad": "",
         "color":"Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"ef202s.png"
+        "img":"frilux/ef202s.png"
     },
     {
         "id":"84",
         "url":"",
         "codigo":"EF-203-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos calentados o neutros",
         "medidas":"1500mm x 660mm x 1350mm",
         "potencia":"",
@@ -1948,13 +1948,13 @@
         "capacidad": "",
         "color":"Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"ef203s.png"
+        "img":"frilux/ef203s.png"
     },
     {
         "id":"85",
         "url":"",
         "codigo":"EF-204-S",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de productos calentados o neutros",
         "medidas":"2000mm x 660mm x 1350mm",
         "potencia":"",
@@ -1971,13 +1971,13 @@
         "capacidad": "",
         "color":"Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"ef204s.png"
+        "img":"frilux/ef204s.png"
     },
     {
         "id":"86",
         "url":"",
         "codigo":"VF-001-T",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1200mm x 600mm x 1150mm",
         "potencia":"",
@@ -1994,13 +1994,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf001t.png"
+        "img":"frilux/vf001t.png"
     },
     {
         "id":"87",
         "url":"",
         "codigo":"VF-002-T",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1750mm x 600mm x 1150mm",
         "potencia":"",
@@ -2017,13 +2017,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf002t.png"
+        "img":"frilux/vf002t.png"
     },
     {
         "id":"88",
         "url":"",
         "codigo":"VF-004-T",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1300mm x 600mm x 1150mm",
         "potencia":"",
@@ -2040,13 +2040,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf004t.png"
+        "img":"frilux/vf004t.png"
     },
     {
         "id":"89",
         "url":"",
         "codigo":"RF-073-T",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1300mm x 600mm x 1150mm",
         "potencia":"",
@@ -2063,13 +2063,13 @@
         "capacidad": "490 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
         "categoria":"",
-        "img":"rf073t.png"
+        "img":"frilux/rf073t.png"
     },
     {
         "id":"90",
         "url":"",
         "codigo":"VF-003-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"700mm x 500mm x 1100mm",
         "potencia":"",
@@ -2086,13 +2086,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf003plus.png"
+        "img":"frilux/vf003plus.png"
     },
     {
         "id":"91",
         "url":"",
         "codigo":"VF-005-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1200mm x 550mm x 1850mm",
         "potencia":"",
@@ -2109,13 +2109,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf005plus.png"
+        "img":"frilux/vf005plus.png"
     },
     {
         "id":"92",
         "url":"",
         "codigo":"VF-006-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1400mm x 550mm x 1850mm",
         "potencia":"",
@@ -2132,13 +2132,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf006plus.png"
+        "img":"frilux/vf006plus.png"
     },
     {
         "id":"93",
         "url":"",
         "codigo":"VF-007-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1600mm x 550mm x 1850mm",
         "potencia":"",
@@ -2155,13 +2155,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf007plus.png"
+        "img":"frilux/vf007plus.png"
     },
     {
         "id":"94",
         "url":"",
         "codigo":"VF-008-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
         "medidas":"1800mm x 550mm x 1850mm",
         "potencia":"",
@@ -2178,13 +2178,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf008plus.png"
+        "img":"frilux/vf008plus.png"
     },
     {
         "id":"94",
         "url":"",
         "codigo":"CF-001-Plus",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Tiendas de comestibles, Panadería, Supermercados y tiendas",
         "medidas":"1400mm x 850mm x 860mm",
         "potencia":"",
@@ -2201,13 +2201,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"cf001plus.png"
+        "img":"frilux/cf001plus.png"
     },
     {
         "id":"95",
         "url":"",
         "codigo":"RF-362",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición para carnes avícola",
         "medidas":"",
         "potencia":"",
@@ -2224,13 +2224,13 @@
         "capacidad": "",
         "color":"INOX",
         "categoria":"",
-        "img":"rf362.png"
+        "img":"frilux/rf362.png"
     },
     {
         "id":"96",
         "url":"",
         "codigo":"RF-098-T",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Exposición para carnes Top",
         "medidas":"",
         "potencia":"",
@@ -2247,13 +2247,13 @@
         "capacidad": "",
         "color":"INOX",
         "categoria":"",
-        "img":"rf098t.png"
+        "img":"frilux/rf098t.png"
     },
     {
         "id":"97",
         "url":"",
         "codigo":"RF-352",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina confiteria",
         "medidas":"",
         "potencia":"",
@@ -2270,13 +2270,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf352.png"
+        "img":"frilux/rf352.png"
     },
     {
         "id":"98",
         "url":"",
         "codigo":"RF-353",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina confiteria",
         "medidas":"",
         "potencia":"",
@@ -2293,13 +2293,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf353.png"
+        "img":"frilux/rf353.png"
     },
     {
         "id":"99",
         "url":"",
         "codigo":"RF-354",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina confiteria",
         "medidas":"",
         "potencia":"",
@@ -2316,13 +2316,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"rf354.png"
+        "img":"frilux/rf354.png"
     },
     {
         "id":"100",
         "url":"",
         "codigo":"VF-121",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina neutra",
         "medidas":"",
         "potencia":"",
@@ -2339,13 +2339,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf121.png"
+        "img":"frilux/vf121.png"
     },
     {
         "id":"101",
         "url":"",
         "codigo":"VF-122",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina neutra",
         "medidas":"",
         "potencia":"",
@@ -2362,13 +2362,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf122.png"
+        "img":"frilux/vf122.png"
     },
     {
         "id":"102",
         "url":"",
         "codigo":"VF-123",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina neutra",
         "medidas":"",
         "potencia":"",
@@ -2385,13 +2385,13 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf123.png"
+        "img":"frilux/vf123.png"
     },
     {
         "id":"103",
         "url":"",
         "codigo":"VF-124",
-        "marca":"frial",
+        "marca":"frilux",
         "nombre":"Vitrina neutra",
         "medidas":"",
         "potencia":"",
@@ -2408,7 +2408,7 @@
         "capacidad": "",
         "color":"",
         "categoria":"",
-        "img":"vf124.png"
+        "img":"frilux/vf124.png"
     }
 ]
 
