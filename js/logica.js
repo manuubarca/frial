@@ -19,7 +19,7 @@ fetch('../json/productos.json')
                         <p class="card-text text-muted">
                             ${productosEnArray.codigo}        
                         </p>
-                        <a href="${productosEnArray.url}" id="botonVerProducto${indice}" class="btn bg-orange text-white rounded">
+                        <a href="../pages/productos/${productosEnArray.url}" id="botonVerProducto${indice}" class="btn bg-orange text-white rounded">
                             Ver producto
                         </a> 
                     </div>

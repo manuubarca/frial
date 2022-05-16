@@ -1,7 +1,7 @@
 [
     {
         "id":"01",
-        "url":"",
+        "url":"refrigeradores/rf321.html",
         "codigo":"RF-321",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -24,7 +24,7 @@
     },
     {
         "id":"04",
-        "url":"",
+        "url":"refrigeradores/rf327.html",
         "codigo":"RF-327",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -47,7 +47,7 @@
     },
     {
         "id":"05",
-        "url":"",
+        "url":"expositores/vf001t.html",
         "codigo":"VF-001-T",
         "marca":"frilux",
         "nombre":"Exposición de Dulces, Panes, y Secos en General",
@@ -70,7 +70,7 @@
     },
     {
         "id":"06",
-        "url":"",
+        "url":"expositores/vf002t.html",
         "codigo":"VF-002-T",
         "marca":"frilux",
         "nombre":"Exposición de Dulces, Panes, y Secos en General",
@@ -93,7 +93,7 @@
     },
     {
         "id":"07",
-        "url":"",
+        "url":"expositores/vf003t.html",
         "codigo":"VF-003-T",
         "marca":"frilux",
         "nombre":"Exposición de Dulces, Panes, y Secos en General",
@@ -116,7 +116,7 @@
     },
     {
         "id":"08",
-        "url":"",
+        "url":"expositores/vf004t.html",
         "codigo":"VF-004-T",
         "marca":"frilux",
         "nombre":"Exposición de Dulces, Panes, y Secos en General",
@@ -139,7 +139,7 @@
     },
     {
         "id":"11",
-        "url":"",
+        "url":"refrigeradores/rf078t.html",
         "codigo":"RF-078-T",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -162,7 +162,7 @@
     },
     {
         "id":"12",
-        "url":"",
+        "url":"refrigeradores/rf083t.html",
         "codigo":"RF-083-T",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -185,7 +185,7 @@
     },
     {
         "id":"13",
-        "url":"",
+        "url":"refrigeradores/rf071t.html",
         "codigo":"RF-071-T",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de Tortas, Pasteles, y Dulces en General",
@@ -208,7 +208,7 @@
     },
     {
         "id":"14",
-        "url":"",
+        "url":"refrigeradores/rf073t.html",
         "codigo":"RF-073-T",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de Tortas, Pasteles, y Dulces en General",
@@ -231,7 +231,7 @@
     },
     {
         "id":"18",
-        "url":"",
+        "url":"colocadores/bf008.html",
         "codigo":"BF-008",
         "marca":"frilux",
         "nombre":"Colocación de Ensaladas, Postres, y Alimentos Frios",
@@ -254,7 +254,7 @@
     },
     {
         "id":"20",
-        "url":"",
+        "url":"colocadores/bf008.html",
         "codigo":"RF-133",
         "marca":"frilux",
         "nombre":"Colocación de Ensaladas, Postres, y Alimentos Frios",
@@ -278,7 +278,7 @@
 
     {
         "id":"23",
-        "url":"",
+        "url":"colocadores/vf011.html",
         "codigo":"VF-011",
         "marca":"frilux",
         "nombre":"Colocación de Ensaladas, Postres, y Alimentos Frios",
@@ -301,7 +301,7 @@
     },
     {
         "id":"24",
-        "url":"",
+        "url":"colocadores/vf012.html",
         "codigo":"VF-012",
         "marca":"frilux",
         "nombre":"Colocación de Ensaladas, Postres, y Alimentos Frios",
@@ -324,7 +324,7 @@
     },
     {
         "id":"25",
-        "url":"",
+        "url":"refrigeradores/rf007.html",
         "codigo":"RF-007",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -347,7 +347,7 @@
     },
     {
         "id":"26",
-        "url":"",
+        "url":"refrigeradores/rf008.html",
         "codigo":"RF-008",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -370,7 +370,7 @@
     },
     {
         "id":"27",
-        "url":"",
+        "url":"refrigeradores/rf004.html",
         "codigo":"RF-004",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -393,7 +393,7 @@
     },
     {
         "id":"29",
-        "url":"",
+        "url":"refrigeradores/rf006.html",
         "codigo":"RF-006",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -416,7 +416,7 @@
     },
     {
         "id":"30",
-        "url":"",
+        "url":"refrigeradores/rf003.html",
         "codigo":"RF-003",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -439,7 +439,7 @@
     },
     {
         "id":"31",
-        "url":"",
+        "url":"refrigeradores/rf006s.html",
         "codigo":"RF-006-S",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -462,7 +462,7 @@
     },
     {
         "id":"32",
-        "url":"",
+        "url":"refrigeradores/rf007s.html",
         "codigo":"RF-007-S",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -485,7 +485,7 @@
     },
     {
         "id":"33",
-        "url":"",
+        "url":"refrigeradores/rf024.html",
         "codigo":"RF-024",
         "marca":"frilux",
         "nombre":"Refrigerador y expositor de fiambres, bebidas, y lacteos en General",
@@ -508,7 +508,7 @@
     },
     {
         "id":"37",
-        "url":"",
+        "url":"expositores/vf008f.html",
         "codigo":"VF-008-F",
         "marca":"frilux",
         "nombre":"Exposición de Panes, y Galletas",
@@ -531,7 +531,7 @@
     },
     {
         "id":"38",
-        "url":"",
+        "url":"licuadoras/lqb4.html",
         "codigo":"LQB-4",
         "marca":"becker go",
         "nombre":"Licuadora Industrial",
@@ -554,7 +554,7 @@
     },
     {
         "id":"39",
-        "url":"",
+        "url":"licuadoras/lqb6.html",
         "codigo":"LQB-6",
         "marca":"becker go",
         "nombre":"Licuadora Industrial",
@@ -577,7 +577,7 @@
     },
     {
         "id":"40",
-        "url":"",
+        "url":"licuadoras/lqb8.html",
         "codigo":"LQB-8",
         "marca":"becker go",
         "nombre":"Licuadora Industrial",
@@ -600,7 +600,7 @@
     },
     {
         "id":"41",
-        "url":"",
+        "url":"licuadoras/lqb10.html",
         "codigo":"LQB-10",
         "marca":"becker go",
         "nombre":"Licuadora Industrial",
@@ -623,7 +623,7 @@
     },
     {
         "id":"42",
-        "url":"",
+        "url":"licuadoras/lqa2.html",
         "codigo":"LQA-2",
         "marca":"becker go",
         "nombre":"Licuadora Industrial",
@@ -646,7 +646,7 @@
     },
     {
         "id":"43",
-        "url":"",
+        "url":"ralladores/rec150.html",
         "codigo":"REC-150",
         "marca":"becker go",
         "nombre":"Rallador Electrico Comercial",
@@ -669,7 +669,7 @@
     },
     {
         "id":"44",
-        "url":"",
+        "url":"moledoras/mbi10.html",
         "codigo":"MBI-10",
         "marca":"becker go",
         "nombre":"Moledora de Carne",
@@ -692,7 +692,7 @@
     },
     {
         "id":"45",
-        "url":"",
+        "url":"moledoras/mbi22.html",
         "codigo":"MBI-22",
         "marca":"becker go",
         "nombre":"Moledora de Carne",
@@ -715,7 +715,7 @@
     },
     {
         "id":"46",
-        "url":"",
+        "url":"moledoras/mbi98.html",
         "codigo":"MBI-98",
         "marca":"becker go",
         "nombre":"Moledora de Carne",
@@ -738,7 +738,7 @@
     },
     {
         "id":"47",
-        "url":"",
+        "url":"moledoras/mbl22.html",
         "codigo":"MBL-22",
         "marca":"becker go",
         "nombre":"Moledora de Carne",
@@ -761,7 +761,7 @@
     },
     {
         "id":"48",
-        "url":"",
+        "url":"moledoras/mbl98.html",
         "codigo":"MBL-98",
         "marca":"becker go",
         "nombre":"Moledora de Carne",
@@ -784,7 +784,7 @@
     },
     {
         "id":"49",
-        "url":"",
+        "url":"otros/abi10.html",
         "codigo":"ABI-10",
         "marca":"becker go",
         "nombre":"Ablandador de Carnes",
@@ -807,7 +807,7 @@
     },
     {
         "id":"50",
-        "url":"",
+        "url":"otros/pec9.html",
         "codigo":"PEC-9",
         "marca":"becker go",
         "nombre":"Molino Electrico Comercial",
@@ -830,7 +830,7 @@
     },
     {
         "id":"51",
-        "url":"",
+        "url":"sierras/sbs40.html",
         "codigo":"SBS-40",
         "marca":"becker go",
         "nombre":"Sierra grande para Huesos",
@@ -852,7 +852,7 @@
     },
     {
         "id":"52",
-        "url":"",
+        "url":"sierras/sbs35.html",
         "codigo":"SBS-35",
         "marca":"becker go",
         "nombre":"Sierra Mediana para Huesos",
@@ -874,7 +874,7 @@
     },
     {
         "id":"53",
-        "url":"",
+        "url":"sierras/sbi17.html",
         "codigo":"SBI-17",
         "marca":"becker go",
         "nombre":"Sierra Pequeña para Huesos",
@@ -896,7 +896,7 @@
     },
     {
         "id":"54",
-        "url":"",
+        "url":"sierras/sbsp17.html",
         "codigo":"SBSP-17",
         "marca":"becker go",
         "nombre":"Sierra Pequeña para Huesos con Molino",
@@ -918,7 +918,7 @@
     },
     {
         "id":"55",
-        "url":"",
+        "url":"almacenadores/rf103.html",
         "codigo":"RF-103",
         "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
@@ -941,7 +941,7 @@
     },
     {
         "id":"56",
-        "url":"",
+        "url":"almacenadores/rf104.html",
         "codigo":"RF-104",
         "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
@@ -964,7 +964,7 @@
     },
     {
         "id":"57",
-        "url":"",
+        "url":"almacenadores/rf107.html",
         "codigo":"RF-107",
         "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
@@ -987,7 +987,7 @@
     },
     {
         "id":"58",
-        "url":"",
+        "url":"almacenadores/rf108.html",
         "codigo":"RF-108",
         "marca":"frilux",
         "nombre":"Almacenamiento y Conservación de Hielo, Productos previamente Congelados o Refrigerados en General",
@@ -1010,7 +1010,7 @@
     },
     {
         "id":"59",
-        "url":"",
+        "url":"conservadores/rf041.html",
         "codigo":"RF-041",
         "marca":"frilux",
         "nombre":"Conservación y Refrigeración  Bebidas, Fiambres, Condimentos y Alimentos Refrigerados en General",
@@ -1033,7 +1033,7 @@
     },
     {
         "id":"60",
-        "url":"",
+        "url":"conservadores/rf064e.html",
         "codigo":"RF-064-E",
         "marca":"frilux",
         "nombre":"Conservación y Refrigeración  Bebidas, Fiambres, Condimentos y Alimentos Refrigerados en General",
@@ -1056,7 +1056,7 @@
     },
     {
         "id":"61",
-        "url":"",
+        "url":"conservadores/rf062t.html",
         "codigo":"RF-062-T",
         "marca":"frilux",
         "nombre":"Conservación y Refrigeración  Bebidas, Fiambres, Condimentos y Alimentos Refrigerados en General",
@@ -1079,7 +1079,7 @@
     },
     {
         "id":"62",
-        "url":"",
+        "url":"conservadores/rf065.html",
         "codigo":"RF-065",
         "marca":"frilux",
         "nombre":"Conservación y Refrigeración  de Alimentos y Bebidas en General",
@@ -1102,7 +1102,7 @@
     },
     {
         "id":"63",
-        "url":"",
+        "url":"conservadores/rf068.html",
         "codigo":"RF-068",
         "marca":"frilux",
         "nombre":"Conservación y Refrigeración  de Alimentos y Bebidas en General",
@@ -1125,7 +1125,7 @@
     },
     {
         "id":"64",
-        "url":"",
+        "url":"refrigeradores/rf053plus.html",
         "codigo":"RF-053-Plus",
         "marca":"frilux",
         "nombre":"Refrigeración y Almacenamiento de Bebidas",
@@ -1148,7 +1148,7 @@
     },
     {
         "id":"68",
-        "url":"",
+        "url":"refrigeradores/rf109.html",
         "codigo":"RF-109",
         "marca":"frilux",
         "nombre":"Refrigeración y Conservación del Agua para Panaderías Industrias y Estación de Servicios",
@@ -1171,7 +1171,7 @@
     },
     {
         "id":"69",
-        "url":"",
+        "url":"refrigeradores/rf110.html",
         "codigo":"RF-110",
         "marca":"frilux",
         "nombre":"Refrigeración y Conservación del Agua para Panaderías Industrias y Estación de Servicios",
@@ -1194,7 +1194,7 @@
     },
     {
         "id":"70",
-        "url":"",
+        "url":"otros/rf118.html",
         "codigo":"RF-118",
         "marca":"frilux",
         "nombre":"Retraso y Aceleración de Crescimiento de Panes",
@@ -1217,7 +1217,7 @@
     },
     {
         "id":"71",
-        "url":"",
+        "url":"colocadores/rf130.html",
         "codigo":"RF-130",
         "marca":"frilux",
         "nombre":"Colocación de Alimentos Calientes y Alimentos Frios, Ensaladas y Postres",
@@ -1240,7 +1240,7 @@
     },
     {
         "id":"73",
-        "url":"",
+        "url":"expositores/rf130.html",
         "codigo":"RF-301-S",
         "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
@@ -1263,7 +1263,7 @@
     },
     {
         "id":"74",
-        "url":"",
+        "url":"expositores/rf302s.html",
         "codigo":"RF-302-S",
         "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
@@ -1286,7 +1286,7 @@
     },
     {
         "id":"75",
-        "url":"",
+        "url":"expositores/rf303s.html",
         "codigo":"RF-303-S",
         "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
@@ -1309,7 +1309,7 @@
     },
     {
         "id":"76",
-        "url":"",
+        "url":"expositores/rf304s.html",
         "codigo":"RF-304-S",
         "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
@@ -1332,7 +1332,7 @@
     },
     {
         "id":"79",
-        "url":"",
+        "url":"expositores/vf103s.html",
         "codigo":"VF-103-S",
         "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
@@ -1355,7 +1355,7 @@
     },
     {
         "id":"81",
-        "url":"",
+        "url":"expositores/vf105s.html",
         "codigo":"VF-105-S",
         "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
@@ -1377,31 +1377,8 @@
         "img":"frilux/vf105s.png"
     },
     {
-        "id":"87",
-        "url":"",
-        "codigo":"VF-002-T",
-        "marca":"frilux",
-        "nombre":"Exposición de dulces, panes, y secos en General",
-        "medidas":"1750mm x 600mm x 1150mm",
-        "potencia":"",
-        "temperatura":"",
-        "consumo":"",
-        "peso":"85 Kg",
-        "rotacion":"",
-        "disco":"",
-        "produccion":"",
-        "molienda":"",
-        "mesa":"",
-        "corte":"",
-        "lamina":"",
-        "capacidad": "",
-        "color":"",
-        "categoria":"",
-        "img":"frilux/vf002t.png"
-    },
-    {
         "id":"90",
-        "url":"",
+        "url":"expositores/vf003plus.html",
         "codigo":"VF-003-Plus",
         "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
@@ -1424,7 +1401,7 @@
     },
     {
         "id":"93",
-        "url":"",
+        "url":"expositores/vf107plus.html",
         "codigo":"VF-007-Plus",
         "marca":"frilux",
         "nombre":"Exposición de dulces, panes, y secos en General",
@@ -1447,7 +1424,7 @@
     },
     {
         "id":"95",
-        "url":"",
+        "url":"expositores/rf362.html",
         "codigo":"RF-362",
         "marca":"frilux",
         "nombre":"Exposición para carnes avícola",
@@ -1470,7 +1447,7 @@
     },
     {
         "id":"96",
-        "url":"",
+        "url":"expositores/rf098t.html",
         "codigo":"RF-098-T",
         "marca":"frilux",
         "nombre":"Exposición para carnes Top",
@@ -1493,7 +1470,7 @@
     },
     {
         "id":"97",
-        "url":"",
+        "url":"expositores/rf352.html",
         "codigo":"RF-352",
         "marca":"frilux",
         "nombre":"Vitrina confiteria",
@@ -1516,7 +1493,7 @@
     },
     {
         "id":"101",
-        "url":"",
+        "url":"expositores/vf122.html",
         "codigo":"VF-122",
         "marca":"frilux",
         "nombre":"Vitrina neutra",
@@ -1539,7 +1516,7 @@
     },
     {
         "id":"103",
-        "url":"",
+        "url":"expositores/vf124.html",
         "codigo":"VF-124",
         "marca":"frilux",
         "nombre":"Vitrina neutra",
