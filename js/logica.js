@@ -37,4 +37,3 @@ fetch('../json/productos.json')
         })
     })
 });
-
