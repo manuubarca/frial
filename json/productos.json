@@ -1470,7 +1470,7 @@
     },
     {
         "id":"97",
-        "url":"expositores/rf352.html",
+        "url":"vitrinas/rf352.html",
         "codigo":"RF-352",
         "marca":"frilux",
         "nombre":"Vitrina confiteria",
@@ -1493,7 +1493,7 @@
     },
     {
         "id":"101",
-        "url":"expositores/vf122.html",
+        "url":"vitrinas/vf122.html",
         "codigo":"VF-122",
         "marca":"frilux",
         "nombre":"Vitrina neutra",
@@ -1516,7 +1516,7 @@
     },
     {
         "id":"103",
-        "url":"expositores/vf124.html",
+        "url":"vitrinas/vf124.html",
         "codigo":"VF-124",
         "marca":"frilux",
         "nombre":"Vitrina neutra",
