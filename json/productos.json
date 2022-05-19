@@ -23,7 +23,7 @@
         "img":"frilux/rf321.png"
     },
     {
-        "id":"04",
+        "id":"02",
         "url":"refrigeradores/rf327.html",
         "codigo":"RF-327",
         "marca":"frilux",
@@ -42,11 +42,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Negro, Blanco",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf327.png"
     },
     {
-        "id":"05",
+        "id":"03",
         "url":"expositores/vf001t.html",
         "codigo":"VF-001-T",
         "marca":"frilux",
@@ -65,11 +65,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf001t.png"
     },
     {
-        "id":"06",
+        "id":"04",
         "url":"expositores/vf002t.html",
         "codigo":"VF-002-T",
         "marca":"frilux",
@@ -88,11 +88,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf002t.png"
     },
     {
-        "id":"07",
+        "id":"05",
         "url":"expositores/vf003t.html",
         "codigo":"VF-003-T",
         "marca":"frilux",
@@ -111,11 +111,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf003t.png"
     },
     {
-        "id":"08",
+        "id":"06",
         "url":"expositores/vf004t.html",
         "codigo":"VF-004-T",
         "marca":"frilux",
@@ -134,11 +134,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf004t.png"
     },
     {
-        "id":"11",
+        "id":"07",
         "url":"refrigeradores/rf078t.html",
         "codigo":"RF-078-T",
         "marca":"frilux",
@@ -157,11 +157,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf078t.png"
     },
     {
-        "id":"12",
+        "id":"08",
         "url":"refrigeradores/rf083t.html",
         "codigo":"RF-083-T",
         "marca":"frilux",
@@ -180,11 +180,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
-        "img":"frilux/rf083t.png"
+        "categoria":"Refrigeradores",
+        "img":"frilux/rf078t.png"
     },
     {
-        "id":"13",
+        "id":"09",
         "url":"refrigeradores/rf071t.html",
         "codigo":"RF-071-T",
         "marca":"frilux",
@@ -203,11 +203,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
-        "img":"frilux/rf071t.png"
+        "categoria":"Refrigeradores",
+        "img":"frilux/rf073t.png"
     },
     {
-        "id":"14",
+        "id":"10",
         "url":"refrigeradores/rf073t.html",
         "codigo":"RF-073-T",
         "marca":"frilux",
@@ -226,11 +226,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf073t.png"
     },
     {
-        "id":"18",
+        "id":"11",
         "url":"colocadores/bf008.html",
         "codigo":"BF-008",
         "marca":"frilux",
@@ -249,12 +249,12 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Colocadores",
         "img":"frilux/bf008.png"
     },
     {
-        "id":"20",
-        "url":"colocadores/bf008.html",
+        "id":"12",
+        "url":"colocadores/rf133.html",
         "codigo":"RF-133",
         "marca":"frilux",
         "nombre":"Colocación de Ensaladas, Postres, y Alimentos Frios",
@@ -272,12 +272,12 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
-        "img":"frilux/rf133.png"
+        "categoria":"Colocadores",
+        "img":"frilux/bf008.png"
     },
 
     {
-        "id":"23",
+        "id":"13",
         "url":"colocadores/vf011.html",
         "codigo":"VF-011",
         "marca":"frilux",
@@ -296,11 +296,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Colocadores",
         "img":"frilux/vf011.png"
     },
     {
-        "id":"24",
+        "id":"14",
         "url":"colocadores/vf012.html",
         "codigo":"VF-012",
         "marca":"frilux",
@@ -319,11 +319,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Colocadores",
         "img":"frilux/vf012.png"
     },
     {
-        "id":"25",
+        "id":"15",
         "url":"refrigeradores/rf007.html",
         "codigo":"RF-007",
         "marca":"frilux",
@@ -342,11 +342,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf007.png"
     },
     {
-        "id":"26",
+        "id":"16",
         "url":"refrigeradores/rf008.html",
         "codigo":"RF-008",
         "marca":"frilux",
@@ -365,11 +365,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf008.png"
     },
     {
-        "id":"27",
+        "id":"17",
         "url":"refrigeradores/rf004.html",
         "codigo":"RF-004",
         "marca":"frilux",
@@ -388,11 +388,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf004.png"
     },
     {
-        "id":"29",
+        "id":"18",
         "url":"refrigeradores/rf006.html",
         "codigo":"RF-006",
         "marca":"frilux",
@@ -411,11 +411,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf006.png"
     },
     {
-        "id":"30",
+        "id":"19",
         "url":"refrigeradores/rf003.html",
         "codigo":"RF-003",
         "marca":"frilux",
@@ -434,11 +434,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf003.png"
     },
     {
-        "id":"31",
+        "id":"20",
         "url":"refrigeradores/rf006s.html",
         "codigo":"RF-006-S",
         "marca":"frilux",
@@ -457,11 +457,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf006s.png"
     },
     {
-        "id":"32",
+        "id":"21",
         "url":"refrigeradores/rf007s.html",
         "codigo":"RF-007-S",
         "marca":"frilux",
@@ -480,11 +480,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf007s.png"
     },
     {
-        "id":"33",
+        "id":"22",
         "url":"refrigeradores/rf024.html",
         "codigo":"RF-024",
         "marca":"frilux",
@@ -503,11 +503,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf024.png"
     },
     {
-        "id":"37",
+        "id":"23",
         "url":"expositores/vf008f.html",
         "codigo":"VF-008-F",
         "marca":"frilux",
@@ -526,11 +526,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf008f.png"
     },
     {
-        "id":"38",
+        "id":"24",
         "url":"licuadoras/lqb4.html",
         "codigo":"LQB-4",
         "marca":"becker go",
@@ -549,11 +549,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Licuadoras",
         "img":"beckergo/lqb4.png"
     },
     {
-        "id":"39",
+        "id":"25",
         "url":"licuadoras/lqb6.html",
         "codigo":"LQB-6",
         "marca":"becker go",
@@ -572,11 +572,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
-        "img":"beckergo/lqb6.png"
+        "categoria":"Licuadoras",
+        "img":"beckergo/lqb4.png"
     },
     {
-        "id":"40",
+        "id":"26",
         "url":"licuadoras/lqb8.html",
         "codigo":"LQB-8",
         "marca":"becker go",
@@ -595,11 +595,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
-        "img":"beckergo/lqb8.png"
+        "categoria":"Licuadoras",
+        "img":"beckergo/lqb4.png"
     },
     {
-        "id":"41",
+        "id":"27",
         "url":"licuadoras/lqb10.html",
         "codigo":"LQB-10",
         "marca":"becker go",
@@ -618,11 +618,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
-        "img":"beckergo/lqb10.png"
+        "categoria":"Licuadoras",
+        "img":"beckergo/lqb4.png"
     },
     {
-        "id":"42",
+        "id":"28",
         "url":"licuadoras/lqa2.html",
         "codigo":"LQA-2",
         "marca":"becker go",
@@ -641,11 +641,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Licuadoras",
         "img":"beckergo/lqa2.png"
     },
     {
-        "id":"43",
+        "id":"29",
         "url":"ralladores/rec150.html",
         "codigo":"REC-150",
         "marca":"becker go",
@@ -664,11 +664,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Ralladores",
         "img":"beckergo/rec150.png"
     },
     {
-        "id":"44",
+        "id":"30",
         "url":"moledoras/mbi10.html",
         "codigo":"MBI-10",
         "marca":"becker go",
@@ -687,11 +687,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Moledoras",
         "img":"beckergo/mbi10.png"
     },
     {
-        "id":"45",
+        "id":"31",
         "url":"moledoras/mbi22.html",
         "codigo":"MBI-22",
         "marca":"becker go",
@@ -710,11 +710,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Moledoras",
         "img":"beckergo/mbi22.png"
     },
     {
-        "id":"46",
+        "id":"32",
         "url":"moledoras/mbi98.html",
         "codigo":"MBI-98",
         "marca":"becker go",
@@ -733,11 +733,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Moledoras",
         "img":"beckergo/mbi98.png"
     },
     {
-        "id":"47",
+        "id":"33",
         "url":"moledoras/mbl22.html",
         "codigo":"MBL-22",
         "marca":"becker go",
@@ -756,11 +756,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Moledoras",
         "img":"beckergo/mbl22.png"
     },
     {
-        "id":"48",
+        "id":"34",
         "url":"moledoras/mbl98.html",
         "codigo":"MBL-98",
         "marca":"becker go",
@@ -779,11 +779,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Moledoras",
         "img":"beckergo/mbl98.png"
     },
     {
-        "id":"49",
+        "id":"35",
         "url":"otros/abi10.html",
         "codigo":"ABI-10",
         "marca":"becker go",
@@ -806,7 +806,7 @@
         "img":"beckergo/abi10.png"
     },
     {
-        "id":"50",
+        "id":"36",
         "url":"otros/pec9.html",
         "codigo":"PEC-9",
         "marca":"becker go",
@@ -829,7 +829,7 @@
         "img":"beckergo/pec9.png"
     },
     {
-        "id":"51",
+        "id":"37",
         "url":"sierras/sbs40.html",
         "codigo":"SBS-40",
         "marca":"becker go",
@@ -847,11 +847,11 @@
         "corte":"374mm x 275mm",
         "lamina":"2,82m",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Sierras",
         "img":"beckergo/sbs40.png"
     },
     {
-        "id":"52",
+        "id":"38",
         "url":"sierras/sbs35.html",
         "codigo":"SBS-35",
         "marca":"becker go",
@@ -869,11 +869,11 @@
         "corte":"291mm x 195mm",
         "lamina":"2,20m",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Sierras",
         "img":"beckergo/sbs35.png"
     },
     {
-        "id":"53",
+        "id":"39",
         "url":"sierras/sbi17.html",
         "codigo":"SBI-17",
         "marca":"becker go",
@@ -891,11 +891,11 @@
         "corte":"211mm x 160mm",
         "lamina":"1,80m",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Sierras",
         "img":"beckergo/sbi17.png"
     },
     {
-        "id":"54",
+        "id":"40",
         "url":"sierras/sbsp17.html",
         "codigo":"SBSP-17",
         "marca":"becker go",
@@ -913,11 +913,11 @@
         "corte":"211mm x 160mm",
         "lamina":"1,80m",
         "color":"Inox",
-        "categoria":"",
+        "categoria":"Sierras",
         "img":"beckergo/sbsp17.png"
     },
     {
-        "id":"55",
+        "id":"41",
         "url":"almacenadores/rf103.html",
         "codigo":"RF-103",
         "marca":"frilux",
@@ -936,11 +936,11 @@
         "lamina":"",
         "capacidad": "474 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Almacenadores",
         "img":"frilux/rf103.png"
     },
     {
-        "id":"56",
+        "id":"42",
         "url":"almacenadores/rf104.html",
         "codigo":"RF-104",
         "marca":"frilux",
@@ -959,11 +959,11 @@
         "lamina":"",
         "capacidad": "589 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Almacenadores",
         "img":"frilux/rf104.png"
     },
     {
-        "id":"57",
+        "id":"43",
         "url":"almacenadores/rf107.html",
         "codigo":"RF-107",
         "marca":"frilux",
@@ -982,11 +982,11 @@
         "lamina":"",
         "capacidad": "474 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Almacenadores",
         "img":"frilux/rf107.png"
     },
     {
-        "id":"58",
+        "id":"44",
         "url":"almacenadores/rf108.html",
         "codigo":"RF-108",
         "marca":"frilux",
@@ -1005,11 +1005,11 @@
         "lamina":"",
         "capacidad": "589 L",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Almacenadores",
         "img":"frilux/rf108.png"
     },
     {
-        "id":"59",
+        "id":"45",
         "url":"conservadores/rf041.html",
         "codigo":"RF-041",
         "marca":"frilux",
@@ -1028,11 +1028,11 @@
         "lamina":"",
         "capacidad": "500 L",
         "color":"INOX",
-        "categoria":"",
+        "categoria":"Conservadores",
         "img":"frilux/rf041.png"
     },
     {
-        "id":"60",
+        "id":"46",
         "url":"conservadores/rf064e.html",
         "codigo":"RF-064-E",
         "marca":"frilux",
@@ -1051,11 +1051,11 @@
         "lamina":"",
         "capacidad": "675 L",
         "color":"INOX",
-        "categoria":"",
+        "categoria":"Conservadores",
         "img":"frilux/rf064e.png"
     },
     {
-        "id":"61",
+        "id":"47",
         "url":"conservadores/rf062t.html",
         "codigo":"RF-062-T",
         "marca":"frilux",
@@ -1074,11 +1074,11 @@
         "lamina":"",
         "capacidad": "550 L",
         "color":"Blanco",
-        "categoria":"",
+        "categoria":"Conservadores",
         "img":"frilux/rf062t.png"
     },
     {
-        "id":"62",
+        "id":"48",
         "url":"conservadores/rf065.html",
         "codigo":"RF-065",
         "marca":"frilux",
@@ -1097,11 +1097,11 @@
         "lamina":"",
         "capacidad": "900 L",
         "color":"Blanco",
-        "categoria":"",
+        "categoria":"Conservadores",
         "img":"frilux/rf065.png"
     },
     {
-        "id":"63",
+        "id":"49",
         "url":"conservadores/rf068.html",
         "codigo":"RF-068",
         "marca":"frilux",
@@ -1120,11 +1120,11 @@
         "lamina":"",
         "capacidad": "1400 L",
         "color":"INOX",
-        "categoria":"",
+        "categoria":"Conservadores",
         "img":"frilux/rf068.png"
     },
     {
-        "id":"64",
+        "id":"50",
         "url":"refrigeradores/rf053plus.html",
         "codigo":"RF-053-Plus",
         "marca":"frilux",
@@ -1143,11 +1143,11 @@
         "lamina":"",
         "capacidad": "480 Garrafas",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf053plus.png"
     },
     {
-        "id":"68",
+        "id":"51",
         "url":"refrigeradores/rf109.html",
         "codigo":"RF-109",
         "marca":"frilux",
@@ -1166,11 +1166,11 @@
         "lamina":"",
         "capacidad": "100 L",
         "color":"Blanco",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf109.png"
     },
     {
-        "id":"69",
+        "id":"52",
         "url":"refrigeradores/rf110.html",
         "codigo":"RF-110",
         "marca":"frilux",
@@ -1189,11 +1189,11 @@
         "lamina":"",
         "capacidad": "100 L",
         "color":"INOX",
-        "categoria":"",
+        "categoria":"Refrigeradores",
         "img":"frilux/rf110.png"
     },
     {
-        "id":"70",
+        "id":"53",
         "url":"otros/rf118.html",
         "codigo":"RF-118",
         "marca":"frilux",
@@ -1216,7 +1216,7 @@
         "img":"frilux/rf118.png"
     },
     {
-        "id":"71",
+        "id":"54",
         "url":"colocadores/rf130.html",
         "codigo":"RF-130",
         "marca":"frilux",
@@ -1235,12 +1235,12 @@
         "lamina":"",
         "capacidad": "05 GN's 1;1x100mm ou 10 1/2 06 Gm's 1/2 x 65mm",
         "color":"",
-        "categoria":"",
+        "categoria":"Colocadores",
         "img":"frilux/rf130.png"
     },
     {
-        "id":"73",
-        "url":"expositores/rf130.html",
+        "id":"55",
+        "url":"expositores/rf301s.html",
         "codigo":"RF-301-S",
         "marca":"frilux",
         "nombre":"Exposición de productos refrigerados",
@@ -1258,11 +1258,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/rf301s.png"
     },
     {
-        "id":"74",
+        "id":"56",
         "url":"expositores/rf302s.html",
         "codigo":"RF-302-S",
         "marca":"frilux",
@@ -1281,11 +1281,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/rf302s.png"
     },
     {
-        "id":"75",
+        "id":"57",
         "url":"expositores/rf303s.html",
         "codigo":"RF-303-S",
         "marca":"frilux",
@@ -1304,11 +1304,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/rf303s.png"
     },
     {
-        "id":"76",
+        "id":"58",
         "url":"expositores/rf304s.html",
         "codigo":"RF-304-S",
         "marca":"frilux",
@@ -1327,11 +1327,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"Blanco, Gris, Negro, Amarillo, Verde, Rojo, y Azul",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/rf304s.png"
     },
     {
-        "id":"79",
+        "id":"59",
         "url":"expositores/vf103s.html",
         "codigo":"VF-103-S",
         "marca":"frilux",
@@ -1350,11 +1350,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf103s.png"
     },
     {
-        "id":"81",
+        "id":"60",
         "url":"expositores/vf105s.html",
         "codigo":"VF-105-S",
         "marca":"frilux",
@@ -1373,11 +1373,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf105s.png"
     },
     {
-        "id":"90",
+        "id":"61",
         "url":"expositores/vf003plus.html",
         "codigo":"VF-003-Plus",
         "marca":"frilux",
@@ -1396,11 +1396,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf003plus.png"
     },
     {
-        "id":"93",
+        "id":"62",
         "url":"expositores/vf107plus.html",
         "codigo":"VF-007-Plus",
         "marca":"frilux",
@@ -1419,11 +1419,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/vf007plus.png"
     },
     {
-        "id":"95",
+        "id":"63",
         "url":"expositores/rf362.html",
         "codigo":"RF-362",
         "marca":"frilux",
@@ -1442,11 +1442,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"INOX",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/rf362.png"
     },
     {
-        "id":"96",
+        "id":"64",
         "url":"expositores/rf098t.html",
         "codigo":"RF-098-T",
         "marca":"frilux",
@@ -1465,11 +1465,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"INOX",
-        "categoria":"",
+        "categoria":"Expositores",
         "img":"frilux/rf098t.png"
     },
     {
-        "id":"97",
+        "id":"65",
         "url":"vitrinas/rf352.html",
         "codigo":"RF-352",
         "marca":"frilux",
@@ -1488,11 +1488,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Vitrinas",
         "img":"frilux/rf352.png"
     },
     {
-        "id":"101",
+        "id":"66",
         "url":"vitrinas/vf122.html",
         "codigo":"VF-122",
         "marca":"frilux",
@@ -1511,11 +1511,11 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Vitrinas",
         "img":"frilux/vf122.png"
     },
     {
-        "id":"103",
+        "id":"67",
         "url":"vitrinas/vf124.html",
         "codigo":"VF-124",
         "marca":"frilux",
@@ -1534,7 +1534,7 @@
         "lamina":"",
         "capacidad": "",
         "color":"",
-        "categoria":"",
+        "categoria":"Vitrinas",
         "img":"frilux/vf124.png"
     }
 ]
